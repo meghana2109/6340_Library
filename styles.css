@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+
+  h1{
+      color: rgb(33, 19, 95);
+      font: Arial;
+      font-weight: bold;
+  }
+
+  h2{
+      color: blue;
+  }
+
