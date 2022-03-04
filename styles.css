@@ -1,0 +1,54 @@
+html, body {
+    margin: 50;
+    padding: 50;
+  }
+  canvas {
+    display: block;
+  }
+
+  h1{
+      color: rgb(255, 255 ,255);
+      font: Arial;
+      font-weight:bolder;
+      font-size: xx-large;
+  }
+
+  h2{
+      color: rgb(253, 253, 253);
+  }
+
+  img{
+      align-self: center;
+  }
+
+  p{
+      justify-content:space-evenly;
+      text-align:justify;
+      line-break:strict;   
+  }
+
+  a {
+      font-size: x-large;
+  }
+  .header {
+    border: 10px ridge rgb(207, 85, 85);
+    background-color: rgb(226, 226, 128);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    flex: 0.8;
+  }
+
+  .bg {
+        background-image: url("./assets/dlehi6.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+  }
+
+  body{
+    background-image: url('./assets/library.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+
